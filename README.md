@@ -1,5 +1,7 @@
 # WMUS
 
+![Screenshot](.previews/wmus.png)
+
 #### README
 
 A script built on cmus-remote that faciliate the work from commandline when listening on music via cmus
