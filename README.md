@@ -1,6 +1,6 @@
 # WMUS
 
-![Screenshot](.previews/wmus.png)
+![Screenshot](.preview/wmus.png)
 
 #### README
 
